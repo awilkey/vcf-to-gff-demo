@@ -1,5 +1,5 @@
 # vcf-to-gff
-Conversion between vcf and gff using [https://github.com/awilkey/bio-format-tools-go](bio-format-tools-go)
+Conversion between vcf and gff using [bio-format-tools-go](https://github.com/awilkey/bio-format-tools-go)
 defaults to reading from stdin and outputting to stdout
 
 flags (optional)
